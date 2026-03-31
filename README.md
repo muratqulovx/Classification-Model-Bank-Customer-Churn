@@ -45,7 +45,7 @@ Weight of Evidence (WoE) is applied to encode categorical variables into continu
 Correlation analysis helps understand relationships between features and the target variable (`Exited`). Three correlation methods are used:
 
 ### Screenshot of Correlations
-![Three Correlations](images/correlations.png)
+![Three Correlations](correlations.png)
 
 1. **Pearson Correlation** – Measures linear relationships between continuous variables  
    - Example: `Age` vs `Balance`  
